@@ -1,4 +1,4 @@
-# Just Change Status Bar Icon
+# Just Modified Status Bar Icon
 
 > follow the original repository [Mortennn/Dozer](https://github.com/Mortennn/Dozer)
 
