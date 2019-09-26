@@ -1,5 +1,7 @@
 # Just Change Status Bar Icon
 
+> follow the original repository [Mortennn/Dozer](https://github.com/Mortennn/Dozer)
+
 <p align="center">
 	<img width="200" height="200" margin-right="100%" src="https://raw.githubusercontent.com/Mortennn/Dozer/master/Stuff/AppIcon.png">
 </p>
